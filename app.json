@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "BholePath",
+    "slug": "bholepath",
+    "scheme": "bholepath",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#07101F"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
